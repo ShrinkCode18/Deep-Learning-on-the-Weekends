@@ -23,5 +23,5 @@ Inspired by Daniel Shiffman's The Nature of Code Tutorials. This is our work on 
 
 # CONTRIBUTORS
 
-1. Krutika Bapat (username: bapatkrutika / github)
+1. Krutika Bapat (username: krutikabapat / github)
 2. Kushashwa Ravi Shrimali (username: krshrimali / github)
