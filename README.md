@@ -20,3 +20,8 @@ Inspired by Daniel Shiffman's The Nature of Code Tutorials. This is our work on 
 3) It's not for someone's learning as of now. It's an open sourced work of us, which we intend to do on week-ends (the week days work are in other repos, mainly of Computer Vision and Deep Learning). 
 
 4) For ease, we'll put the things we've changed in a log file in the specific folder. **File name : changelog.txt** (To be added)
+
+# CONTRIBUTORS
+
+1. Krutika Bapat (username: bapatkrutika / github)
+2. Kushashwa Ravi Shrimali (username: krshrimali / github)
