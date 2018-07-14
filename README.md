@@ -15,4 +15,5 @@ Inspired by Daniel Shiffman's The Nature of Code Tutorials. This is my work on i
 
 # Deep Learning 
 Covered by now: Recurrent Neural Networks.
+
 Coming-up: LSTMs, GRUs and their practical applications.
